@@ -11,7 +11,7 @@
   <modelVersion>4.0.0</modelVersion>
  
   <groupId>com.mycompany.app</groupId>
-  <artifactId>my-appq</artifactId>
+  <artifactId>my-appqs</artifactId>
   <version>${northbridge.project.version}</version>
  
 
