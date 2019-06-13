@@ -3,7 +3,7 @@
   <modelVersion>5.0.0</modelVersion>
  
   <groupId>com.mycompany.app</groupId>
-  <artifactId>my-app</artifactId>
+  <artifactId>my-app1</artifactId>
   <version>0.32</version>
  
   <properties>
